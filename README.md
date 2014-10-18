@@ -8,7 +8,7 @@ Nginx-Php-for-Windows is a selection of software components bundled and preconfi
 
 
 <b>Note</b><br />
-Place all folders to C:\ directory<br /><br />
+Place all folders to the C: Drive<br /><br />
 
 <b>Start Nginx</b><br />
 
